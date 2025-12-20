@@ -1,0 +1,8 @@
+# 项目
+.vscode
+
+# backend
+__pycache__
+venv
+dist
+node_modules
