@@ -4,5 +4,4 @@
 # backend
 __pycache__
 venv
-dist
-node_modules
+*.log
